@@ -1,3 +1,6 @@
+body {
+    background-color: green;
+}
 .navigation__list {
     list-style-type: none;
     width:  1140px;
