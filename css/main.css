@@ -24,7 +24,19 @@ body {
 
 .navigation__list__item__link--active {
     color: #C44D58;
+<<<<<<< Updated upstream
 }
 .body {
+<<<<<<< Updated upstream
 background-color: red;
 }	
+=======
+
+=======
+
+>>>>>>> Stashed changes
+
+
+.body {
+    color: red;
+}
