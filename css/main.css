@@ -25,8 +25,12 @@ body {
 .navigation__list__item__link--active {
     color: #C44D58;
 }
+<<<<<<< HEAD
 .body {
 <<<<<<< Updated upstream
+=======
+body {
+>>>>>>> master
 background-color: red;
 =======
     background-color: red;
